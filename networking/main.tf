@@ -1,4 +1,6 @@
-#It is main.tf file
+#It is main.tf
+#file
+
 terraform {
 
   required_version = "~> 1.0"
