@@ -1,6 +1,7 @@
 #It is main.tf
 #file
 #added sample code to see if auto trigger works
+#one more line
 
 terraform {
 
